@@ -39,11 +39,13 @@ Here you can find some examples from my latest work experience where I've led Sh
 ## Coursework
 Here you'll find some sample work I've done on my data science journey. The work includes R, Python and SQL scripts as well as data visualisation and interpretation.
 
-+ **R**
-  + [Explanatory Data Analysis: BKM](https://dostkaraahmetli.github.io/DostWorks/files/BKM-Assignmment.html)
-  + [Explanatory Data Analysis: ATP Tennis](https://dostkaraahmetli.github.io/DostWorks/files/ATP2017.html)
-  + [Explanatory Data Analysis: ODD Car Sales](https://dostkaraahmetli.github.io/DostWorks/files/ODD%20Car%20Sales%20Assignment.html)
-  + [Spotify Sentiment and EDA Project Report with Musical Horoscope](https://dostkaraahmetli.github.io/DostWorks/files/spoRify-Gr-Pr-Final-Report.html)
++ [Explanatory Data Analysis: BKM](https://dostkaraahmetli.github.io/DostWorks/files/BKM-Assignmment.html)
++ [Explanatory Data Analysis: ATP Tennis](https://dostkaraahmetli.github.io/DostWorks/files/ATP2017.html)
++ [Explanatory Data Analysis: ODD Car Sales](https://dostkaraahmetli.github.io/DostWorks/files/ODD%20Car%20Sales%20Assignment.html)
++ [Spotify Sentiment and EDA Project Report with Musical Horoscope](https://dostkaraahmetli.github.io/DostWorks/files/spoRify-Gr-Pr-Final-Report.html)
++ [Yelp Dataset EDA](https://dostkaraahmetli.github.io/DostWorks/files/BDM505SpoRifyTermProject.html)
+  + [Yelp Dataset: Restaurant Maps-Charlotte](https://dostkaraahmetli.github.io/DostWorks/files/maps.html)
++ [European Soccer Database: EDA and Infrerential Statistical Analysis (Python)](https://dostkaraahmetli.github.io/DostWorks/files/DKFinalBDA507.html)
  
 
 ## Skills
