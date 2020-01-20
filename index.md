@@ -28,7 +28,12 @@ kdsfklkhfds
   + [Building Web Applications with Shiny in R](https://www.datacamp.com/statement-of-accomplishment/course/d36fcc5f946c628d7af56c6dcf8c6858ee97a6f3)
 
 ## MarCom Credentials
-pdf
+
+Here you can find some examples from my latest work experience where I've led Shift, a multinational marketing and communication agency. 
+
+**[Please follow the link for the Credential Portfolio](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/DostMarComPortfolioShiftLowRes.pdf)**
+*Please ask for the video portfolio seperately.*
+
 
 ## Coursework
 + dsvsd
