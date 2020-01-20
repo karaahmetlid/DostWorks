@@ -12,7 +12,7 @@ Istanbul | +90 555 3400022 | dost.karaahmetli@shift-istanbul.com
 
 kdsfklkhfds
 
-link to CV
+[Please foolow the link for my Resume](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/Dost%20Karaahmetli%20Resume.pdf)
 
 ## Certifications
 
