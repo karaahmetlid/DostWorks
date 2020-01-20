@@ -16,7 +16,14 @@ kdsfklkhfds
 
 ## Certifications
 
-+ dff
++ edX / Columbia University:
+  + **[Data Science for Executives](https://credentials.edx.org/credentials/57675f823c5f4bd4a84efd512cd58586/)**
+    + [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://courses.edx.org/certificates/0b27cb1eb31f4c249e7716b43085ccd7)
+    + [Machine Learning for Data Science and Analytics](https://courses.edx.org/certificates/f13fbd0a43664309a010c733edb65508)
+    + [Statistical Thinking for Data Science and Analytics](https://courses.edx.org/certificates/ed15335150184367907dbcc4edd5d796)
+  + DataCamp:
+    + dfgh
+    
 + dsdv
 + gsbsg
 
