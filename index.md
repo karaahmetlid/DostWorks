@@ -32,6 +32,7 @@ kdsfklkhfds
 Here you can find some examples from my latest work experience where I've led Shift, a multinational marketing and communication agency. 
 
 **[Please follow the link for the Credential Portfolio](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/DostMarComPortfolioShiftLowRes.pdf)**
+
 *Please ask for the video portfolio seperately.*
 
 
