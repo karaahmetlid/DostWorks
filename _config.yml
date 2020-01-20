@@ -1,2 +1,11 @@
 theme: jekyll-theme-minimal
-title: Dost's Work
+title: Dost's Portfolio
+locale: en_US
+owner:
+  name: Dost Karaahmetli
+  avatar: bio-photo.jpg
+  bio: "This is a sample Jekyll academic website."
+  email: dost.karaahmetli@shift-istanbul.com
+  linkedin: https://www.linkedin.com/in/dostkaraahmetli/
+  github: dostkaraahmetli
+ 
