@@ -10,7 +10,15 @@ Istanbul | +90 555 3400022 | dost.karaahmetli@shift-istanbul.com
 
 ## About
 
-kdsfklkhfds
+There’s no longer debate about significance of Data Analytics in the business world today. Motivated by an understanding of the ever-changing reality of the technological world and the need to boost my own proficiency and professional aptitude; I found it essential to keep up with the advancements in the field of Big Data and prepare myself to meet the demanding standards of today’s and tomorrow’s business world. 
+
+Throughout my life, I’ve always been extremely passionate about knowledge. I’ve accumulated valuable experiences on both professional and entrepreneurial sides of business environment which gave me the opportunity to encounter almost every business conjuncture. My background includes national and international account management and HUB Markets Management. I also worked on regional marketing of international brands in advertisement companies such as, McCann-Erickson and Grey Worldwide. I established and managed the Strategic Planning Department at Link/McCann-Erickson and worked on numerous international projects at McCann Berlin office.
+
+After spending several years in advertising agencies, I decided to found my own company. I have been the Shift's CEO and COO since the day Shift was founded in Istanbul, 2005. I managed the launch processes of Shift-Almaty, Kazakhstan and Shift-Baku, Azerbaijan offices. In addition to the operations in these countries, I led all the projects Shift created and carried out in Moldova, Georgia, Russia, Ukraine and Uzbekistan, as well as providing marketing consultancy to its clients.
+
+I hold a bachelor’s degree in Political Sciences and come from a marketing background. Forced by the spread of technology and information, the common understanding of 4Ps (there was a time when the 4 went up to 9) of marketing shifted to a tragic end. As a firm believer of conventional marketing is long overdue, I’ve set my eyes on data-driven marketing models. For this reason, After having accumulated over 20 years of experience in the fields of Marketing, Advertising and Communications - nearly 14 years of which as an entrepreneur - I’ve decided to freeze my company’s operations and focus on developing my skills to obtain business insights out of data. 
+
+As Data Science is playing a more and more important role in future marketing and business decision making, mastering necessary tools and concepts in Big Data and Analytics would be a huge competitive edge while making strategic interpretations. So then, I enrolled to an online program, and earned “Data Science for Executives Professional Certificate” from Columbia University in order to acquire an understanding on the subject. After succesfully achieving the Professional Certificate, Ifigured out that I could go all the way, and started the Master of Science in Big Data Analytics program at MEF University. 
 
 **[Please follow the link for my Resume](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/Dost%20Karaahmetli%20Resume.pdf)**
 
@@ -48,5 +56,3 @@ Here you'll find some sample work I've done on my data science journey. The work
 + [European Soccer Database: EDA and Infrerential Statistical Analysis (Python)](https://dostkaraahmetli.github.io/DostWorks/files/DKFinalBDA507.html)
  
 
-## Skills
-table
