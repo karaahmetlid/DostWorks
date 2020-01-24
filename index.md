@@ -30,6 +30,7 @@ As Data Science is playing a more and more important role in future marketing an
     + [Machine Learning for Data Science and Analytics](https://courses.edx.org/certificates/f13fbd0a43664309a010c733edb65508)
     + [Statistical Thinking for Data Science and Analytics](https://courses.edx.org/certificates/ed15335150184367907dbcc4edd5d796)    
 + DataCamp:
+  + [Data Science for Business](https://www.datacamp.com/statement-of-accomplishment/course/709fa0c57a4b6dc541bac00b18f064facdb1fe3f)
   + [Python Programming Track](https://www.datacamp.com/statement-of-accomplishment/track/29c1d03cbfbe4f2d19a779b8d4436449948e0d13)
   + [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/ac1e8b6fa14e7dc65f0331a9c80f419a254c4fad)
   + [Data Manipulation with dplyr in R](https://www.datacamp.com/statement-of-accomplishment/course/5d627146c0d764b31c9532cd3985e7a2b3240810)
