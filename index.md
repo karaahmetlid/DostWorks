@@ -38,6 +38,7 @@ As Data Science is playing a more and more important role in future marketing an
   + [Cluster Analysis in R](https://www.datacamp.com/statement-of-accomplishment/course/3ef069e25321fc58d21993f345ee5641d98a9c0a)
 + Google Analytics Academy:
   + [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/tPXPrNbhSvKtyyy0P4IejQ)
+  + [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/Z2iscHoXTIie6o0D8d6Zdg)
 
 ## MarCom Credentials
 
