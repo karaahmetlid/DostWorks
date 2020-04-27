@@ -36,6 +36,7 @@ As Data Science is playing a more and more important role in future marketing an
   + [Data Manipulation with dplyr in R](https://www.datacamp.com/statement-of-accomplishment/course/5d627146c0d764b31c9532cd3985e7a2b3240810)
   + [Building Web Applications with Shiny in R](https://www.datacamp.com/statement-of-accomplishment/course/d36fcc5f946c628d7af56c6dcf8c6858ee97a6f3)
   + [Cluster Analysis in R](https://www.datacamp.com/statement-of-accomplishment/course/3ef069e25321fc58d21993f345ee5641d98a9c0a)
+  + [Machine Learning for Marketing Analytics in R](https://www.datacamp.com/statement-of-accomplishment/course/9d5d4820c2c0b2be6afee5dab99b087cfd5b41ba)
 + Google Analytics Academy:
   + [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/tPXPrNbhSvKtyyy0P4IejQ)
   + [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/Z2iscHoXTIie6o0D8d6Zdg)
