@@ -32,6 +32,7 @@ As Data Science is playing a more and more important role in future marketing an
 + DataCamp:
   + [Data Science for Business](https://www.datacamp.com/statement-of-accomplishment/course/709fa0c57a4b6dc541bac00b18f064facdb1fe3f)
   + [Python Programming Track](https://www.datacamp.com/statement-of-accomplishment/track/29c1d03cbfbe4f2d19a779b8d4436449948e0d13)
+  + [Python Data Science Toolbox](https://www.datacamp.com/statement-of-accomplishment/course/c641db2a4ff377b9cd354bff1dfbc636e1246c88)
   + [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/ac1e8b6fa14e7dc65f0331a9c80f419a254c4fad)
   + [Data Manipulation with dplyr in R](https://www.datacamp.com/statement-of-accomplishment/course/5d627146c0d764b31c9532cd3985e7a2b3240810)
   + [Building Web Applications with Shiny in R](https://www.datacamp.com/statement-of-accomplishment/course/d36fcc5f946c628d7af56c6dcf8c6858ee97a6f3)
@@ -40,6 +41,8 @@ As Data Science is playing a more and more important role in future marketing an
 + Google Analytics Academy:
   + [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/tPXPrNbhSvKtyyy0P4IejQ)
   + [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/Z2iscHoXTIie6o0D8d6Zdg)
++ Coursera / The University of North Carolina at Chapel Hill:
+  + [Psychology of Popularity](https://www.coursera.org/account/accomplishments/verify/UYTAPHB86H3X)
 
 ## MarCom Credentials
 
